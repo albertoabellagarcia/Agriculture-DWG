@@ -46,5 +46,5 @@
 [[TO-OWL]]
 [14] TIme Ontology OWL https://www.w3.org/TR/owl-time/
 
-[[O&M]]
+[[OMS]]
 [15]Observations and Measurements https://www.ogc.org/standards/om
