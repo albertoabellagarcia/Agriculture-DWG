@@ -16,6 +16,23 @@ The AIM SWG will use for collaboration:
 Deliverable D2.3 of the H2020 DEMETER project (https://nc.h2020-demeter.eu/index.php/s/RggDtq76zkXD84n) elaborates the alignments and relations with different models including: INSPIRE/FOODIE, FIWARE AgriFood dta models, SAREF4AGRI, ADAPT, FOODON, AGROVOC, EPPO, and other OGC Earth Observation standards.
 D2.3 includes the analysis of other relevant models, describing their potential incorporation in AIM, e.g., Crop ontology, ISOBUS, GS1, and AFarCloud. Deliverable D2.5 of DEMETER that is planned for delivery in April 2023 will present in detail the latest version of AIM along with all recent extensions.
 
+
+==== GeoDCAT SWG
+
+
+===== Scope of Activity
+
+Alignment between groups will help to define the way AIM metadata can be fit into the general purpose GeoDCAT catalogues and eventually verify it's suitability for AIM conformance Agricutlreu datasets.
+
+===== Web Site(s)
+
+https://github.com/opengeospatial/geosemantics-dwg/tree/master/geodcat_swg_charter
+
+
+===== Liaisons
+
+ - Linda van den Brink
+
 ==== W3C/OGC Spatial Data on the Web Interest Group
 
 (And/or its successor, the Spatial Data on the Web Working Group)
