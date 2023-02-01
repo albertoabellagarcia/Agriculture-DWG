@@ -5,6 +5,7 @@
 SWG cooperation will aim at standards formulation in the shared working space, identification and division of tasks, solving arised issues accordingly to their urgency and severity, tracing the progress and planning.
 
 The AIM SWG will use for collaboration:
+
  * Github repository with the standard document and formal model;
  * Github issue tracker for outstanding tasks and considerations as well as change requests;
  * A Slack channel; and
@@ -61,11 +62,11 @@ TBC
 
 This proposed SWG is to enhance an existing OGC standard - an ontology - however the Best Practices for ontology publication have changed since the original GeoSPARQL publication. The ontology publication methods of other standards bodies, particularly the W3C who continuously generates new standard ontologies, will be considered to determine appropriate, Best Practice, ontology publication.
 
-This may include the use of tools to automatically generate human-readable ontology versions from the technical ontology artifact, such as those used by inputs to this work, for example the http://linked.data.gov.au/def/geox[GeoSPARQL Extensions Ontology].
+This may include the use of tools to automatically generate human-readable documentation versions directly from the normative ontology artifacts and examples.  This will reuse toolchains being developed and used in the GeoSPARQL revision process and related work: https://github.com/opengeospatial/ogc-geosparql/tree/master/1.1 and http://linked.data.gov.au/def/geox[GeoSPARQL Extensions Ontology].
 
-In case of profiles definition *profile* as well as an ontology, in line with recent work by OGC members and others to establish standard ways of indicating the dependencies between standards, as per https://www.w3.org/TR/dx-prof/[The Profiles Vocabulary].
+In line with recent work by OGC members and others to establish standard ways of indicating the dependencies between standards when specifying domain specific profiles, the https://www.w3.org/TR/dx-prof/[The Profiles Vocabulary] will be used to provide a description of how all the various formal and informative resources relate to the underlying models and specific domain conformance classes. 
 
-RDA IGAD Agrisemantics WG report ‘39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition doi.org/10.15497/RDA00036.
+The RDA IGAD Agrisemantics WG report ‘39 Hints to Facilitate the Use of Semantics for Data on Agriculture and Nutrition' doi.org/10.15497/RDA00036 will be considered during review and development.
 
 
 === Details of first meeting
@@ -84,8 +85,7 @@ The following people support this proposal and are committed to the Charter and 
 |Name |Organization
 |K. Charvat | Plan4All
 |R. Palma | PSNC
-|I. Roussaki | NTUA
-|I. Roussaki | ICCS
+|I. Roussaki | NTUA, ICCS
 |R. Atkinson, P. Zaborowski | OGC COSI
 |===
 
@@ -93,7 +93,7 @@ The following people support this proposal and are committed to the Charter and 
 
 |===
 |Name |Organization
-|I. Roussaki | ICCS
+|I. Roussaki | NTUA, ICCS
 |R. Palma | PSNC
 |K. Charvat | Plan4All
 |===
