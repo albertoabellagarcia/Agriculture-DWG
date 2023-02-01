@@ -3,6 +3,7 @@
 === Initial Deliverables
 
 The following deliverables will result from the work of this SWG:
+
 * A final version of the "OGC Agriculture Information Model" document for submission to the TC; and
 * Identification of at least two prototype implementations of the core based on the standard — although more would be preferred.
 

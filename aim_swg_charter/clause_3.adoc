@@ -1,6 +1,7 @@
 == Scope of Work
 
 The SWG will undertake:
+
  * a review of available standards relevant to the Agriculture Domain;
  * comparison of these with the scope of the existing AIM candidate model;
  * establish agreements and prioritizing scope for standardization of modules;

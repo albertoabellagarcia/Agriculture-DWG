@@ -44,7 +44,7 @@
 [13] NGSI-LD https://ngsi-ld-tutorials.readthedocs.io/en/latest/
 
 [[TO-OWL]]
-[14] TIme Ontology OWL https://www.w3.org/TR/owl-time/
+[14] Time Ontology OWL https://www.w3.org/TR/owl-time/
 
 [[OMS]]
 [15]Observations and Measurements https://www.ogc.org/standards/om
