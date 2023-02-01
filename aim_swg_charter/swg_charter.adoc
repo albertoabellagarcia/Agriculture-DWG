@@ -12,7 +12,7 @@
 :source-highlighter: pygments
 :submission-date: 2023-01-25
 :approval-date: yyyy-MM-dd
-:document-number: TBD
+:document-number: 23-009
 
 <<<
 [cols = ">",frame = "none",grid = "none"]
