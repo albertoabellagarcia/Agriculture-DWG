@@ -48,3 +48,6 @@
 
 [[OMS]]
 [15]Observations and Measurements https://www.ogc.org/standards/om
+
+[[FIWAREAGRI]]
+[16] https://github.com/smart-data-models/dataModel.Agrifood
