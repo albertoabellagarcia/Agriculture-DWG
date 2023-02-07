@@ -58,6 +58,18 @@ https://github.com/fiware/tutorials.NGSI-LD
 TBC
 
 
+==== Smart DAta Models
+
+This initaitive provides open-licensed data models in 13 domains including Agri. Data models are based on real use cases and real examples are available. Contribution is collaborative and open. The board of the initaitive includes FIWARE Foundation, TMForum, IUDX and OASC and more than 80 organization have contributed to the more than 800 data models available. 
+The data models are available at github, they have single-source-of-truth based on json schemas. The specific domain repository for Agri can be found [here](https://github.com/smart-data-models/SmartAgrifood/tree/master). In the [main site smartdatamodels.org](https://smartdatamodels.org/) updates are informed.
+
+The data models are platform-agnostic and exports of the examples in csv, json, jsonld, SQL, yaml and geojsonfeatures are available for most of the cases. 
+Liaison will work on the models alignment and potential representation practices in selected encodings.
+
+https://smartdatamodels.org/
+
+https://github.com/smart-data-models/SmartAgrifood
+
 === Other Related Work
 
 This proposed SWG is to enhance an existing OGC standard - an ontology - however the Best Practices for ontology publication have changed since the original GeoSPARQL publication. The ontology publication methods of other standards bodies, particularly the W3C who continuously generates new standard ontologies, will be considered to determine appropriate, Best Practice, ontology publication.
